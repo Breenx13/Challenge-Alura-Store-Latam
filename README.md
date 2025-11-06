@@ -36,7 +36,7 @@ Gráfico de barras que muestra los ingresos totales de cada tienda.
 **Resultado:**  
 La **Tienda 1** fue la que más facturó, mientras que la **Tienda 4** obtuvo los ingresos más bajos.  
 
-![Facturacion](img/análisis_facturacion.png)
+![Facturacion](img/analisis_facturacion.png)
 
 ---
 
