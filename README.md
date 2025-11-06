@@ -106,6 +106,23 @@ Por lo tanto, vender la **Tienda 4** sería la mejor decisión para optimizar lo
 
 ---
 
+### ⚙️ **Ejecución del proyecto**
+
+Para ejecutar este notebook localmente o en Google Colab:
+
+#### 🧠 Opción 1: Google Colab
+1. Abrí [Google Colab](https://colab.research.google.com/).
+2. Subí el archivo `ChallengeAluraStoreLatam.ipynb`.
+3. Asegurate de cargar las bases de datos (`.csv`) en el mismo entorno.
+4. Ejecutá las celdas en orden para reproducir los análisis y gráficos.
+
+#### 💻 Opción 2: Localmente (Jupyter Notebook)
+1. Cloná este repositorio:
+   ```bash
+   git clone https://github.com/usuario/ChallengeAluraStoreLatam.git
+
+---
+
 ## 👩‍💻 Autora  
 📍 **Brenda Galván**  
 💼 Desafío del Programa **ONE - Oracle Next Education / Alura LATAM**  
