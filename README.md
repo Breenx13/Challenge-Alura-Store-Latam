@@ -36,7 +36,7 @@ Gráfico de barras que muestra los ingresos totales de cada tienda.
 **Resultado:**  
 La **Tienda 1** fue la que más facturó, mientras que la **Tienda 4** obtuvo los ingresos más bajos.  
 
-🖼️ ![Facturacion](img/análisis_facturacion.png)
+![Facturacion](img/análisis_facturacion.png)
 
 ---
 
@@ -46,8 +46,8 @@ Se agruparon los productos por categoría y se generaron gráficos circulares pa
 **Conclusión:**  
 Las categorías más vendidas varían, aunque se destacan algunas comunes entre tiendas, mostrando la preferencia de los clientes.  
 
-🖼️ ![Ventas](img/gradico_torta_tiendas.png)
-🖼️ ![Ventas Totales](img/gradico_torta_tiendas_total.png)
+![Ventas](img/gradico_torta_tiendas.png)
+![Ventas Totales](img/gradico_torta_tiendas_total.png)
 
 ---
 
@@ -57,7 +57,7 @@ Se calculó el promedio de las calificaciones de los clientes en cada tienda.
 **Resultado:**  
 La **Tienda 1** mantiene una excelente satisfacción del cliente, mientras que la **Tienda 4** presenta calificaciones más bajas.  
 
-🖼️ ![Calificación](img/calificacion_promedio.png)
+![Calificación](img/calificacion_promedio.png)
 
 ---
 
@@ -67,7 +67,7 @@ Se identificaron los productos más vendidos por tienda y se visualizaron median
 **Resultado:**  
 Algunas tiendas presentan pocos productos destacados, lo que refleja una menor diversidad en las ventas.  
 
-🖼️ ![Mas Vendido](img/top_productos.png)
+![Mas Vendido](img/top_productos.png)
 
 ---
 
@@ -87,7 +87,7 @@ Se graficaron las coordenadas de latitud y longitud de las compras para visualiz
 **Conclusión:**  
 Las ventas se concentran en determinadas zonas geográficas, lo que puede relacionarse con la ubicación de los clientes y los costos logísticos.  
 
-🖼️ *Gráfico: Desempeño_Geográfico.png*
+![Geo](img/
 
 ---
 
