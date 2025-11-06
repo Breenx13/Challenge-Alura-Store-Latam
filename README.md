@@ -87,7 +87,7 @@ Se graficaron las coordenadas de latitud y longitud de las compras para visualiz
 **Conclusión:**  
 Las ventas se concentran en determinadas zonas geográficas, lo que puede relacionarse con la ubicación de los clientes y los costos logísticos.  
 
-![Geo](img/
+![Geo](img/distribucion_geo.png)
 
 ---
 
